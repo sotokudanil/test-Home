@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Test result
+allure-results/
+allure-report/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Screenshots
+screenshoots/
+
+# Chrome driver binary
+chromedriver-mobile/

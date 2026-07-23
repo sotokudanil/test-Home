@@ -1,6 +1,5 @@
 HEAD
-# Flip Mobile Registration Automation Testing
-
+# Test Home Registration Testing
 
 ## Project Description
 
